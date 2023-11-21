@@ -1,0 +1,69 @@
+h1{
+    background-color: yellow;
+   
+    color: black;
+    font-size:30px;
+    font-family: Arial,"Times New Roman", sans-serif;
+    text-align: center;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+a:hover{
+    color: red;
+}
+
+
+img{
+    border-radius: 8px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: fit-content
+}
+
+h3{
+    text-decoration: underline;
+    font-family:Arial,"Times New Roman", sans-serif ;
+   
+    background-color: violet;
+   
+    margin-left: auto;
+    margin-right: 94.6%;
+
+    
+  
+    
+}
+.one{
+    text-decoration: underline;
+    font-family:Arial,"Times New Roman", sans-serif ;
+    
+    background-color: violet;
+    
+    
+    margin-left: auto;
+    margin-right: 95.5%;
+    
+}
+.two{
+    text-decoration: underline;
+    font-family:Arial,"Times New Roman", sans-serif ;
+    
+    background-color: violet;
+    
+    
+    margin-left: auto;
+    margin-right: 97.6%;
+    
+}
+
+*{
+    font-family:Arial,"Times New Roman", sans-serif ;
+}
+p,li{
+    font-style: italic;
+}
